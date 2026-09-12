@@ -3,7 +3,7 @@ Analyze the customer retention in E-commerce
 
 This one hits both SQL fundamentals + advanced customer analytics.
 
-🎯 ## Business Objectives
+🎯 **Business Objectives**
 
 ✅ Analyze customer retention
 
@@ -21,7 +21,7 @@ This one hits both SQL fundamentals + advanced customer analytics.
 
 ✅ Measure revenue retention
 
-🧠 SQL Concepts
+🧠 **SQL Concepts**
 ✔️ Date Functions  
 ✔️ GROUP BY, Aggregate Functions, JOINs  
 ✔️ CTEs, CASE WHEN, Subqueries  
