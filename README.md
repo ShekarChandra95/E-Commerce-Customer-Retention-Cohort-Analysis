@@ -3,7 +3,7 @@ Analyze the customer retention in E-commerce
 
 This one hits both SQL fundamentals + advanced customer analytics.
 
-##🎯 Business Objectives
+🎯 ## Business Objectives
 
 ✅ Analyze customer retention
 
