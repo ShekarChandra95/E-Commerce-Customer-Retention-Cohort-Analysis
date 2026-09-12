@@ -22,8 +22,12 @@ This one hits both SQL fundamentals + advanced customer analytics.
 ✅ Measure revenue retention
 
 🧠 **SQL Concepts**
+
 ✔️ Date Functions  
+
 ✔️ GROUP BY, Aggregate Functions, JOINs  
+
 ✔️ CTEs, CASE WHEN, Subqueries  
+
 ✔️ Window Functions, LAG(), DENSE_RANK()  
 ✔️ COUNT DISTINCT, Cohort Analysis  
